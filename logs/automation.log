@@ -1,0 +1,11 @@
+
+09:03:50.761 [main] WARN  testCases.TC_001_AccountRegistrationTest - regestration not successful
+09:03:50.761 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
+09:05:49.144 [main] INFO  testCases.TC_001_AccountRegistrationTest - ****starting test case*******
+09:05:49.200 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on my account link
+09:05:49.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on register link
+09:05:50.225 [main] INFO  testCases.TC_001_AccountRegistrationTest - providing customer details
+09:05:51.030 [main] INFO  testCases.TC_001_AccountRegistrationTest - clicking on continue
+09:06:01.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - verifiyng customer registration
+09:06:01.629 [main] WARN  testCases.TC_001_AccountRegistrationTest - regestration not successful
+09:06:01.629 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed
